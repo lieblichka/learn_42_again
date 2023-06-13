@@ -1,0 +1,2 @@
+# learn_42_again
+LEARN  BASIC OF THE PROGRAMMING 
